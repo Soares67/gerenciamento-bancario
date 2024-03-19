@@ -57,7 +57,7 @@ class Banco {
 
     // Construtor
     public Banco() {
-        // Aqui você pode inicializar os valores iniciais do banco
+        // Valores iniciais
         this.saldo = 0;
     }
 
